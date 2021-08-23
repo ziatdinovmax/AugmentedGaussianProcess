@@ -1,2 +1,2 @@
 # AugmentedGaussianProcess
-Gaussian process augmented with a probabilistic model of exprected system's behavior. More details TBA.
+Gaussian process augmented with a probabilistic model of expected system's behavior. More details TBA.
